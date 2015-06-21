@@ -2,7 +2,7 @@
 
 The dataset can be obtained from the UCI Machine Learning Repository's [Human Activity Recognition Using Smartphones Data Set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
-If [run_analysis.R](run_analysis.R) is executed in the base directory of the unziped dataset, a tidy dataset (described below) will be generated.
+If [run_analysis.R](run_analysis.R) is executed in the base directory of the unziped dataset, a tidy dataset (described below and in the code book) will be generated.
 
 [run_analysis.R](run_analysis.R) performs the following tasks:
 - reads in the components of the test data followed by the training data
